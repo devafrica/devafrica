@@ -1,5 +1,10 @@
 # CryptoPayAfrica (CPA Coin)
-##### Bringing Blockchain to Africa
+# Bringing Blockchain to Africa
+
+CryptoPayAfrica aims to be a unified cryptocurrency across the African continent providing a safe, secure and stable method to send and receive money as well as a platform to do business without handling cash. With 1,216 billion people and 54 Countries, Africa is begging for a fast, secure, and affordable payment solution. Our goal is simple… Educate Africa on blockchain.
+
+CPA Coin is built on Cryptonote technology and offer our users the ability to transact absolutely anonymously with no interference from any 3rd parties.
+Our currency will be the preferred method of sending money to anyone in Africa and all over the world. 
 
 [![Discord](https://img.shields.io/discord/471645937606066176?label=CryptoPayAfrica%20Discord)](https://discord.gg/HmTCVbS) [![GitHub contributors](https://img.shields.io/github/contributors-anon/devafrica/cpacoin?label=Contributors)](https://github.com/devafrica/cpacoin/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/devafrica/cpacoin?label=Issues)](https://github.com/devafrica/cpacoin/issues) ![GitHub stars](https://img.shields.io/github/stars/devafrica/cpacoin?label=Github%20Stars)
 
@@ -26,9 +31,4 @@ We would love for you to be part of our journey.
   - Our Discordbot got a makeover go check out EmberBot
   - We are working on our explorers and gearing up for our exchange listing
 
-# Bringing Blockchain to Africa
 
-CryptoPayAfrica aims to be a unified cryptocurrency across the African continent providing a safe, secure and stable method to send and receive money as well as a platform to do business without handling cash. With 1,216 billion people and 54 Countries, Africa is begging for a fast, secure, and affordable payment solution. Our goal is simple… Educate Africa on blockchain.
-
-CPA Coin is built on Cryptonote technology and offer our users the ability to transact absolutely anonymously with no interference from any 3rd parties.
-Our currency will be the preferred method of sending money to anyone in Africa and all over the world. 
