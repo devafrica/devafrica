@@ -11,8 +11,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/devafrica/cpacoin)  
 ![GitHub All Releases](https://img.shields.io/github/downloads/devafrica/cpacoin/total)
   **Windows Gui Wallet Latest**
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/devafrica/cpa-wallet-proton)
- ![GitHub All Releases](https://img.shields.io/github/downloads/devafrica/cpa-wallet-proton/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/devafrica/cpa-wallet-proton)
+![GitHub All Releases](https://img.shields.io/github/downloads/devafrica/cpa-wallet-proton/total)
 
 Simplicity is one of our main goal and we will be adding some great features to our blockchain in the coming months and years ahead. We are 3 developers with a passion for blockchain. And yes… we do live in Africa!  
 We would love for you to be part of our journey.
