@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# CryptoPayAfrica (CPA Coin)
+##### Bringing Blockchain to Africa
 
-You can use the [editor on GitHub](https://github.com/devafrica/devafrica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Discord](https://img.shields.io/discord/471645937606066176?label=CryptoPayAfrica%20Discord)](https://discord.gg/HmTCVbS) [![GitHub All Releases](https://img.shields.io/github/downloads/devafrica/cpacoin/total?label=Downloads)](http://latest.cryptopay.org.za) [![GitHub contributors](https://img.shields.io/github/contributors-anon/devafrica/cpacoin?label=Contributors)](https://github.com/devafrica/cpacoin/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/devafrica/cpacoin?label=Issues)](https://github.com/devafrica/cpacoin/issues) ![GitHub stars](https://img.shields.io/github/stars/devafrica/cpacoin?label=Github%20Stars)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Join our many platforms and help us advance CPA 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-### Markdown
+[![New Release](https://github.com/cdevafrica/cpacoin/)](https://travis-ci.org/joemccann/dillinger)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Simplicity is one of our main goal and we will be adding some great features to our blockchain in the coming months and years ahead. We are 3 developers with a passion for blockchain. And yes… we do live in Africa!  
 
-```markdown
-Syntax highlighted code block
+We would love for you to be part of our journey. Please join us on any of our social platforms.
 
-# Header 1
-## Header 2
-### Header 3
+  - Discord Link 
+  - Twitter
+  - Website
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devafrica/devafrica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# What have we been up too!
