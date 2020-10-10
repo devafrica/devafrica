@@ -16,4 +16,4 @@ We would love for you to be part of our journey. Please join us on any of our so
   - Twitter
   - Website
 
-# What have we been up too!
+# What have we been up to!
