@@ -26,4 +26,4 @@ We would love for you to be part of our journey.
   - Our Discordbot got a makeover go check out EmberBot
   - We are working on our explorers and gearing up for our exchange listing
 
-### CPA Source Build Instructions
+#Brining Blockchain to Africa#
