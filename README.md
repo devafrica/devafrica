@@ -24,7 +24,7 @@ Our currency will be the preferred method of sending money to anyone in Africa a
 
 Simplicity is one of our main goal and we will be adding some great features to our blockchain in the coming months and years ahead. We are 3 developers with a passion for blockchain. And yes… we do live in Africa!  
 We would love for you to be part of our journey.
-# What have we been up too!
+# What have we been up to!
 
   - We switched the origanal cryptonote core to fork TurtleCoin (Robust and Active core developement Community)
   - As you can see... some serious work to GitHub
