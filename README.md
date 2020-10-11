@@ -1,5 +1,5 @@
 # CryptoPayAfrica (CPA Coin)
-### Bringing Blockchain to Africa
+### Bringing Blockchain to Africa since 2018
 
 CryptoPayAfrica aims to be a unified cryptocurrency across the African continent providing a safe, secure and stable method to send and receive money as well as a platform to do business without handling cash. With 1,216 billion people and 54 Countries, Africa is begging for a fast, secure, and affordable payment solution. Our goal is simple… Educate Africa on blockchain.
 
